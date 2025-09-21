@@ -16,8 +16,10 @@ if(isset($_SESSION["login"])){
 <head>
     <title></title>
 </head>
-<body>
+<body style="text-align: center;">
 <h1>INI HALAMAN ADMIN </h1>
+<h3>Selamat datang , admin</h3>
+
 <a href="logout.php">logout<</a>
 </body>
 </html>

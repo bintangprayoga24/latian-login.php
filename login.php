@@ -74,7 +74,8 @@ if($_SERVER["REQUEST_METHOD"]=="POST")
         </div>
         <br><br>
         <div>
-            <input type="submit" value="LOGIN"> 
+            <input type="submit" value="LOGIN">
+            <a href="daftar.php">Daftar</a>
         </div>
     </form>
 
